@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\aguss\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\aguss\\.nuget\\packages",
+      "G:\\visual herramientas 2019\\NuGetPackages"
+    ]
+  }
+}

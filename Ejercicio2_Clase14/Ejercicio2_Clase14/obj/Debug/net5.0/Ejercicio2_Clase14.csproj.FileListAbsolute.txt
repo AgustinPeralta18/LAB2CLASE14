@@ -1,0 +1,16 @@
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\bin\Debug\net5.0\Ejercicio2_Clase14.exe
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\bin\Debug\net5.0\Ejercicio2_Clase14.deps.json
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\bin\Debug\net5.0\Ejercicio2_Clase14.runtimeconfig.json
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\bin\Debug\net5.0\Ejercicio2_Clase14.runtimeconfig.dev.json
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\bin\Debug\net5.0\Ejercicio2_Clase14.dll
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\bin\Debug\net5.0\ref\Ejercicio2_Clase14.dll
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\bin\Debug\net5.0\Ejercicio2_Clase14.pdb
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\obj\Debug\net5.0\Ejercicio2_Clase14.csproj.AssemblyReference.cache
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\obj\Debug\net5.0\Ejercicio2_Clase14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\obj\Debug\net5.0\Ejercicio2_Clase14.AssemblyInfoInputs.cache
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\obj\Debug\net5.0\Ejercicio2_Clase14.AssemblyInfo.cs
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\obj\Debug\net5.0\Ejercicio2_Clase14.csproj.CoreCompileInputs.cache
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\obj\Debug\net5.0\Ejercicio2_Clase14.dll
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\obj\Debug\net5.0\ref\Ejercicio2_Clase14.dll
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\obj\Debug\net5.0\Ejercicio2_Clase14.pdb
+C:\Users\aguss\source\repos\Ejercicio2_Clase14\Ejercicio2_Clase14\obj\Debug\net5.0\Ejercicio2_Clase14.genruntimeconfig.cache
