@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aguss\\source\\repos\\Ejercicio1_Clase14\\Ejercicio1_Clase14\\Ejercicio1_Clase14.csproj": {}
+    "C:\\Users\\aguss\\source\\repos\\Clase14LAB2\\Ejercicio1_Clase14\\Ejercicio1_Clase14\\Ejercicio1_Clase14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aguss\\source\\repos\\Ejercicio1_Clase14\\Ejercicio1_Clase14\\Ejercicio1_Clase14.csproj": {
+    "C:\\Users\\aguss\\source\\repos\\Clase14LAB2\\Ejercicio1_Clase14\\Ejercicio1_Clase14\\Ejercicio1_Clase14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aguss\\source\\repos\\Ejercicio1_Clase14\\Ejercicio1_Clase14\\Ejercicio1_Clase14.csproj",
+        "projectUniqueName": "C:\\Users\\aguss\\source\\repos\\Clase14LAB2\\Ejercicio1_Clase14\\Ejercicio1_Clase14\\Ejercicio1_Clase14.csproj",
         "projectName": "Ejercicio1_Clase14",
-        "projectPath": "C:\\Users\\aguss\\source\\repos\\Ejercicio1_Clase14\\Ejercicio1_Clase14\\Ejercicio1_Clase14.csproj",
+        "projectPath": "C:\\Users\\aguss\\source\\repos\\Clase14LAB2\\Ejercicio1_Clase14\\Ejercicio1_Clase14\\Ejercicio1_Clase14.csproj",
         "packagesPath": "C:\\Users\\aguss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aguss\\source\\repos\\Ejercicio1_Clase14\\Ejercicio1_Clase14\\obj\\",
+        "outputPath": "C:\\Users\\aguss\\source\\repos\\Clase14LAB2\\Ejercicio1_Clase14\\Ejercicio1_Clase14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\visual herramientas 2019\\NuGetPackages"

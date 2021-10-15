@@ -9,10 +9,10 @@ namespace Ejercicio1_Clase14
     class Impresora
     {
 
-        List<Imprimible> imprimir = new List<Imprimible>();
+        List<Imprimible> ColaDeImpresion = new List<Imprimible>();
         public void imprimirTodo()
         {
-            foreach (Imprimible mostrar in imprimir)
+            foreach (Imprimible mostrar in ColaDeImpresion)
             {
                 mostrar.imprimir();
             }
@@ -23,13 +23,13 @@ namespace Ejercicio1_Clase14
         public void agregarImprimible()
         {
             Contrato contrato = new Contrato();
-            imprimir.Add(contrato);
+            ColaDeImpresion.Add(contrato);
 
             Foto foto = new Foto();
-            imprimir.Add(foto);
+            ColaDeImpresion.Add(foto);
 
             Documento documento = new Documento();
-            imprimir.Add(documento);
+            ColaDeImpresion.Add(documento);
         }
 
 
